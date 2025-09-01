@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://rodalarc.github.io/mi-sitio/'
 languageCode = 'en-us'
 title = 'Bienvenido a SRL'
 theme = "ananke"

@@ -1,0 +1,11 @@
+# Archivos generados por Hugo
+/public/
+resources/_gen/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones del editor
+.vscode/
+.idea/
