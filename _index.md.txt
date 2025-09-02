@@ -1,0 +1,33 @@
+---
+title: "Bienvenido a SRL"
+date: 2025-09-01
+description: "Sitio web oficial de SRL, mostrando servicios y noticias."
+---
+
+# Bienvenido a SRL
+
+![LBM](/images/LBM.jpg)
+
+Este es el sitio oficial de **SRL**. Aquí encontrarás información sobre nuestros servicios, noticias y actualizaciones recientes.
+
+---
+
+## Nuestros Servicios
+
+- Servicio 1: Descripción breve
+- Servicio 2: Descripción breve
+- Servicio 3: Descripción breve
+
+---
+
+## Noticias Recientes
+
+### Título de Noticia 1
+Breve resumen de la noticia 1.
+
+### Título de Noticia 2
+Breve resumen de la noticia 2.
+
+---
+
+Si quieres, puedes agregar más imágenes usando la carpeta `static/images/`.
