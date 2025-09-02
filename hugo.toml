@@ -1,4 +1,4 @@
-baseURL = 'https://rodalarc.github.io/mi-sitio/'
+baseURL = 'https://www.slr.cl/'
 languageCode = 'en-us'
-title = 'Bienvenido a SRL'
+title = 'Bienvenido a SRL - =)'
 theme = "ananke"
